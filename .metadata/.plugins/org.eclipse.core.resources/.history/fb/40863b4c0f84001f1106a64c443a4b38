@@ -1,0 +1,111 @@
+package com.promineo;
+
+public class Week01VariablesAndOperationsLab {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		// 1. Create a variable to hold the quantity of 
+				//		available plane seats left on a flight		
+//int availablePlaneSeats = 7;
+//System.out.println(availablePlaneSeats);
+				
+				// 2. Create a variable to hold the cost of groceries at checkout
+//double costOfGroceries = 53.46;
+System.out.println(costOfGroceries);
+				
+				// 3. Create a variable to hold a person's middle initial
+//char middleInitial = 'm';
+//System.out.println(middleInitial);
+			
+				// 4. Create a variable to hold true if it's hot outside 
+				//		and false if it's cold outside
+//boolean hotOutside = true;
+//boolean coldOutside = false;
+//System.out.println(hotOutside);
+//System.out.println(coldOutside);
+				
+				// 5. Create a variable to hold a customer's first name
+//String customerName = "Meredith";
+//System.out.println(customerName);
+				
+				// 6. Create a variable to hold a street address
+//int streetNumber = 24313;
+//String streetName = "Ingebo";
+//String typeOfRoad = "Rd";
+//String streetAddress= (streetNumber + " " + streetName + " " + typeOfRoad);			
+//System.out.println(streetAddress);
+				// 7. Print all variables to the console
+			
+
+				// 8. A customer booked 2 plane seats, 
+				//		remove 2 seats from the available seats variable
+		//System.out.println(availablePlaneSeats - 2);	
+
+				// 9. Impulse candy bar purchase, add 2.15 to the grocery total
+				// 		costOfGroceries = costOfGroceries + 2.15;
+//System.out.println(costOfGroceries + 2.15);
+
+				// 10.  The birth certificate was printed incorrectly, 
+				//		change the middle initial to something else
+//middleInitial = 'b';
+//System.out.println(middleInitial);
+
+				// 11.  The season has changed, update the hot outside 
+				//			variable to be opposite of what it was
+//hotOutside = false;
+//System.out.println(hotOutside);
+
+				// 12.  Create a new variable called full name using the customer's first name, 
+				//			the middle initial, and a last name of your choice
+//String lastName = "Rothstein";
+//String fullName = (customerName + " " + middleInitial + " " + lastName);
+//System.out.println(fullName);
+
+				// 13.  Print a line to the console that introduces the customer and says they live
+				// 			at the address variable
+//System.out.println("This is" + " " + fullName + "." + " " + "She lives at" + " " + streetAddress + ".");
+//String employeeName = "Tony Stark";
+//System.out.println("Hi, my name is " + employeeName);
+//System.out.println(3==3);
+//int hat = 4;
+//int cat = 3;
+//System.out.println(hat == cat);
+//if (hat == 3) {
+	//System.out.println("HI!");
+} //else {
+	//System.out.println("Not right.");
+//int age = 13;
+//if (age >= 16) {
+	//System.out.println("You can drive!");
+//} //else {
+	//System.out.println("You need to wait " + (16- age) + " year(s) till you can drive. Sorry.");
+//}
+//double costOfMedChair = 200.00;
+//if (costOfMedChair <= 150.00) {
+	//System.out.println("Let's buy that chair, baby!");
+//} else if (costOfMedChair <= 200) {
+//	System.out.println("eh... let's think about this");
+//} else { 
+//	System.out.println("Absolutely not buying that chair.");
+//}
+//char middleInt = 'M';
+//switch (middleInt) {
+//case 'K':
+//	System.out.println("that's not my middle initial");
+//	break;
+//case 'L':
+//	System.out.println("That's not it either");
+//	break;
+//case 'M':
+//	System.out.println("That's it!");
+//}
+//}
+//for (int i=0; i < 10; i = i+1) {
+//	System.out.println(i);
+//}
+//for (int i=1; i<=10; i++) {
+//	System.out.println(i);
+//}
+	}
+
+}

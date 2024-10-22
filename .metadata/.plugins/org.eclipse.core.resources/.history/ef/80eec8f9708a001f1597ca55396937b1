@@ -1,0 +1,15 @@
+package week03;
+
+public class students {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String studentName1 = "Tom Sawyer";
+String studentName2 = "Jack Smith";
+String studentName3 = "Bill Turner";
+System.out.println(studentName1);
+
+	}
+	}
+
+
